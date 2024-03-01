@@ -11,7 +11,7 @@ using Castle.DynamicProxy.Generators.Emitters.SimpleAST;
 using System.Xml.Linq;
 
 
-namespace MPP_4.TestGenerators
+namespace TestGenerator.TestGenerators
 {
     public class Generator
     {
